@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**aprettygoodprogramer/aprettygoodprogramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Yo my names Evan! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me
+
+I'm a passionate programmer who uses arch (btw) and windows. Yes it is possible to do this.
+
+- 🔭 I’m currently working on: random stuff
+- 🌱 I’m currently learning: C++ C# Python and React
+- 💬 Ask me about: Ai (pls dont take my hobby)
+
+## Skills
+
+- C#
+- C++
+- Python
+- React + Typescript
+- General Linux Knowledge
+- General Windows Knowledge
+- General Tech Knowledge
+
+## Fun Facts
+
+- I like to solve puzzles
+- I'm locked in
+
+*Epic Website made by noone in particular 😉  [Evan Sphere](https://www.evan-sphere.com)*
+
+
