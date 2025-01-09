@@ -5,11 +5,11 @@
 
 ## About Me
 
-I'm a passionate programmer who uses arch (btw) and windows. Yes it is possible to do this.
+I'm a passionate programmer who uses Arch (btw) and Windows. Yes, it is possible to do this. I am a locked in individual.
 
 - 🔭 I’m currently working on: random stuff
 - 🌱 I’m currently learning: C++ C# Python and React
-- 💬 Ask me about: Ai (pls dont take my hobby)
+- 💬 Ask me about: Ai (pls don't take my hobby)
 
 ## Skills
 
